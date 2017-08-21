@@ -10,6 +10,10 @@ Same steps as installing the original caffe.
 
 Crop the test images based on the annotated bouding boxes.
 
+## pre-trained models
+
+[Models](https://cse.sc.edu/~hguo/sources/attribute_models.zip)
+
 ## run
 
 Use the corresponding model and weights.

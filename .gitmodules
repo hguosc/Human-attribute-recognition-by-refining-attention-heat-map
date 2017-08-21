@@ -1,0 +1,3 @@
+[submodule "caffe_attribute"]
+	path = caffe_attribute
+	url = git://github.com/hguosc/caffe_attribute

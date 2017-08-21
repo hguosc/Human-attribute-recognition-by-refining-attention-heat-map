@@ -23,7 +23,7 @@ showVGGHeat.m
 
 Please cite the following article if it helps your research.
 
-‘’‘
+```
   @article{guo2017human,
     title={Human attribute recognition by refining attention heat map},
     author={Guo, Hao and Fan, Xiaochuan and Wang, Song},
@@ -33,4 +33,4 @@ Please cite the following article if it helps your research.
     year={2017},
     publisher={North-Holland}
   }
-’‘’
+```

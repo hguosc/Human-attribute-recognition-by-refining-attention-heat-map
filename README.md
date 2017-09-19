@@ -1,4 +1,4 @@
-# attribute
+# HumanAttributeRecognitionByRefiningAttentionHeatMap
 
 ## requirements
 
